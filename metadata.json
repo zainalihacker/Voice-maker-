@@ -1,0 +1,5 @@
+{
+  "name": "Zainali AI Voice Maker",
+  "description": "A powerful text-to-speech application with multiple voices and automatic text scanning, powered by Zainali.",
+  "requestFramePermissions": ["camera"]
+}
